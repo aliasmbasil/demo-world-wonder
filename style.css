@@ -1,0 +1,40 @@
+*{
+    background-color: rgba(116, 116, 57, 0.733);
+    text-align: center;
+    /* background-image: url('./images/great\ wall.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; */
+}
+#div1{
+    background-color: blueviolet;
+    background-image: url('./images/great\ wall.jpg');
+    background-repeat: no-repeat;
+
+}
+div{
+    width: 400px;
+    height: 700px;
+    border: 9px groove red;
+    background-color: rgb(38, 199, 38);
+    margin: 20px;
+    float: left;
+    padding: 25px;
+}
+img{
+    width: 100%;
+    border: 3px dotted black;
+    border-radius: 70%;
+}
+h1{
+    background-color: chartreuse;
+    text-decoration: underline;
+    text-shadow: 4px 7px 5px;
+    text-align: center;
+}
+p{
+    color: blue;
+    background-color: hotpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
